@@ -1,0 +1,51 @@
+#timer{
+padding-left: 900px;
+font-size: 20px;
+margin:right;
+
+}
+
+#score{
+padding-right: 900px;
+font-size: 20px;
+margin: left;
+}
+body{
+
+    background-color: aqua;
+}
+#Sketch_to_be_drawn{
+
+font-size: 20px;
+
+}
+#confidence{
+
+
+    font-size: 20px;
+}
+canvas{
+height: 500px;
+width: 500px;
+border-radius: 10px;
+
+}
+#counting{
+font-size: 20px;
+
+}
+h1
+{
+    color :rgb(100,0,100);
+    background-color:aqua;
+}
+#show_sketch
+{
+    float:right;
+}
+.clearcanvas{
+padding-bottom: 150px;
+
+
+}
+
